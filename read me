@@ -1,0 +1,11 @@
+AI-Powered Notes Summariser (V4 – Multi-Format Version)
+🚀 Overview
+The V4 version of this project transforms the AI summariser into a smart multi-format summarization tool.
+It can automatically process .txt, .pdf, and .docx files, extract readable text, summarize the content using a BART Transformer model, and download the summary instantly.
+Built for students, researchers, and professionals who want quick insights from long documents.
+⚙️ Features
+📂 Upload TXT, PDF, or DOCX files
+🧠 AI summarization using facebook/bart-large-cnn
+🪄 Smart text extraction (no setup required)
+💾 Automatic summary download as .txt
+🧾 Supports long text via chunk-based summarization
