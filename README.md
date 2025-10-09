@@ -1,0 +1,2 @@
+# AI-Powered-Notes-Summariser-V4-Multi-Format-Version-
+An AI-powered summarization tool that automatically extracts and condenses text from .txt, .pdf, and .docx files using the BART transformer model. Built in Python and Google Colab, it provides quick, readable summaries and auto-downloads the output — perfect for students, researchers, and professionals seeking fast insights from lengthy documents.
