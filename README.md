@@ -1,5 +1,7 @@
 # AI-Powered Notes Summariser — V4 Multi-Format
 
+[![Python Tests](https://github.com/olohi184/AI-Powered-Notes-Summariser-V4-Multi-Format-Version-/actions/workflows/python-tests.yml/badge.svg)](https://github.com/olohi184/AI-Powered-Notes-Summariser-V4-Multi-Format-Version-/actions/workflows/python-tests.yml)
+
 A Python document summarization project using Hugging Face's `facebook/bart-large-cnn` model. It accepts **TXT, PDF and DOCX** documents, extracts readable text, creates chunked summaries and saves a text report.
 
 ## Quick start
